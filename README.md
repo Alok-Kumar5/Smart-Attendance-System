@@ -60,6 +60,7 @@ Notes:
 This script assumes you have a webcam connected to your computer.
 Modify the training image capture logic or data structure if you have a different approach for loading existing training data.
 Consider adding error handling and more informative user feedback for a robust system.
+You have to make an Attendance name folder in the current directory so that it can save attendance.csv files in it.
 
 
 If you decide to implement a GUI, provide instructions on how to install the necessary libraries and any specific steps required to run the GUI version.
